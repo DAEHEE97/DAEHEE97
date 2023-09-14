@@ -37,16 +37,6 @@ C, C sharp, Python, Kotlin, flask
 
 -->
 
-
-## Tech Stack
-
-| 언어         | 사용 경험    |
-|--------------|--------------|
-| C            | :star::star::star: |
-| C#           | :star::star::star: |
-| Python       | :star::star::star::star: |
-| Kotlin       | :star::star: |
-
 ## 학력
 
 - 2023: 인천대학교 임베디드시스템공학과 졸업
