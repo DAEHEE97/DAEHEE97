@@ -50,5 +50,7 @@ C, C sharp, Python, Kotlin, flask
 | 2023             | 부스트코스 코칭스터디 10기 "Beyond AI Basic 2023" 리드 부스터 |
 | 2023             | Coupang 웹사이트의 광고 데이터를 제거하는 Flask 웹 애플리케이션 개발 |
 
+---
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daehee97)](https://solved.ac/daehee97/)
 
