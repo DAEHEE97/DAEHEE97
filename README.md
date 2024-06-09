@@ -51,6 +51,8 @@ C, C sharp, Python3, Kotlin, flask
 | 2023             | 2023 인천대학교 임베디드시스템공학과 졸업 |
 | 2023             | 부스트코스 코칭스터디 10기 "Beyond AI Basic 2023" 리드 부스터 |
 | 2023             | Coupang 웹사이트의 광고 데이터를 제거하는 Flask 웹 애플리케이션 개발 |
+| 2024             | NAVER Connect Foundation 부스트캠프 AI Tech 6기 |
+
 
 ---
 
